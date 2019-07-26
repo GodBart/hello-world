@@ -3,5 +3,5 @@ first
 
 Hello guys
 
-Bartek here
-I do not know what am I doing here
+GodBart here
+First time 
